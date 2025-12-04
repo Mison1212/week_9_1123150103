@@ -1,14 +1,9 @@
-## Nama : 
-Mison  Wenda 
+## Nama : Mison  Wenda 
    
-## NIM  : 
-1123150103
+## NIM  : 1123150103
 
-## Prodi : 
-FTIK
+## Prodi : FTIK
 
-## Konsentreasi : 
-Software Engineering
+## Konsentreasi : Software Engineering
 
-## Matkul : 
-Mobile App
+## Matkul : Mobile App
