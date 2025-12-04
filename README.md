@@ -1,2 +1,14 @@
-![Screenshot1](screenshot1.png)
-![Screenshot2](screenshot2.png)
+## Nama : 
+Mison  Wenda 
+   
+## NIM  : 
+1123150103
+
+## Prodi : 
+FTIK
+
+## Konsentreasi : 
+Software Engineering
+
+## Matkul : 
+Mobile App
